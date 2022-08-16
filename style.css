@@ -88,6 +88,8 @@
 
 .subtext {
     text-align: center;
+    font-size: 16px;
+    color: #5f6061;
     width: 150px;
     margin-top: 8px;
     margin-bottom: 100px;
@@ -101,7 +103,8 @@
 
 .quote {
     font-size: 36px;
-    font-weight: lighter;
+    font-weight: italic;
+    font-style: italic;
     text-align: center;
     font-color: #1f2937
 }

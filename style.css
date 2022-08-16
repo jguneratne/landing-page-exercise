@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: roboto, arial, sans-serif;
 }
 
 .nav-container {
@@ -9,7 +10,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px;
+    padding: 50px;
 }
 
 .header-link {
@@ -30,38 +31,36 @@
 
 .block-one {
     background-color: #1f2937;
-    padding: 16px;
+    padding: 50px;
 
     display: flex;
+    justify-content: space-between;
+    
 }
 
 .one-text {
     font-size: 18px;
     color: #E5E7EB;   
+    width: 500px;
+    padding-bottom: 10px;
 }
 
 .sign-up1 {
     background-color: #3882f6;
     color: #f9faf8;
-    padding: 8px 16px;
+    padding: 10px 24px;
+    border-style: none;
+    border-radius: 10px;
 }
 
-.box {
-    width: 300px;
-    height: 150px;
-    background-color: #e5e7eb;
-    font-size: 16px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
 h1 {
     font-size: 48px;
     font-weight: extra-bold;
     color: #f9faf8;
+    padding-bottom: 5px;
 }
+
 
 ul {
     list-style: none;

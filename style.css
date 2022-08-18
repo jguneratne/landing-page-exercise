@@ -117,15 +117,17 @@
 
 .quote {
     font-size: 36px;
-    font-style: light-italic;
+    font-weight: 100;
+    font-style: italic;
     text-align: center;
     font-color: #1f2937
 }
 
 .attribution {
     font-weight: bold;
-    font-size: 26px;
+    font-size: 22px;
     text-align: right;
+    padding-right: 30px;
 }
 
 .block-four {
@@ -178,14 +180,14 @@
 
 h1 {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: 900;
     color: #f9faf8;
     padding-bottom: 5px;
 }
 
 h2 {
     font-size: 36px;
-    font-weight: extra-bold;
+    font-weight: 900;
     color: #1f2937;
     text-align: center;
     padding-top: 50px;

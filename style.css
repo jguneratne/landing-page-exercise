@@ -10,7 +10,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px;
+    padding: 50px 100px;
 }
 
 .logo-box {
@@ -54,7 +54,7 @@
 
 .block-one {
     background-color: #1f2937;
-    padding: 50px;
+    padding: 50px 100px;
 
     display: flex;
     justify-content: space-between;
